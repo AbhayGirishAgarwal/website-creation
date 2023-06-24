@@ -1,0 +1,29 @@
+h1{
+    color:brown;
+    border-style:ridge;
+}
+h2{
+    color:blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:salmon;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+.center {
+  border: 5px solid rgb(236, 183, 122);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+button{
+    color: limegreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
